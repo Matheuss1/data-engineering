@@ -6,8 +6,8 @@ RA: 241882
 
 # Tarefa 1 sobre APIs de acesso
 
-(link do notebook)
+[Notebook tarefa 1](lab01.ipynb)
 
 # Tarefa 2 sobre Engenharia Reversa
 
-(link da imagem)
+![diagram](images/lab01.jpg)
