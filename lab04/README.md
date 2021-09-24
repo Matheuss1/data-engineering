@@ -1,7 +1,5 @@
-# Data-engineering
-Tasks related to databases, for MC536 classes at UNICAMP.
+# Aluno
+* RA: 241882
 
-# Nome do aluno
-Matheus Silva de Deus
-
-RA: 241882
+# Tarefa sobre Consultas SQL no NHANES
+[Notebook tarefa 4](notebook/lab04.ipynb)
