@@ -17,7 +17,10 @@
 
 ## Perguntas de pesquisa/análises
 
-> Escreva de forma resumida que perguntas de pesquisa/análises podem ser feitas com o dataset.
+Os dados de ações podem ser utilizados para análises, em pesquisas acadêmicas, comparações, previsões de preços, dentre outras aplicações.
+
+Por exemplo, os dados podem ser utilizados por uma rede neural para a classificação de uma série temporal, determinando ser deve ser efetuada a compra ou venda de um ativo. 
+Além disso, podem ser feitas análises estatísticas que determinem periodicidades no comportamento das séries temporais.
 
 ## Trabalhos relacionados
 
