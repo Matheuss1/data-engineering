@@ -21,4 +21,6 @@
 
 ## Trabalhos relacionados
 
-> Relacione outras iniciativas relacionadas com a do artigo que tenham sido mencionadas no mesmo.
+O artigo cita como iniciativas, relacionadas ao seu tema, os dados públicos disponibilizados pelos sites InfoMoney, Br Investing e Yahoo Finance, que oferem dados sobre ações, já pré-processados.
+
+Além disso, são citados também artigos acadêmicos sobre o uso de datasets contendo o preço de ações, e a utilização de seus dados para a aplicação em modelos de <em>Machine Learning</em>, como, por exemplo, um relacionado ao mercado de ações de Shanghai, que foi utilizado para análises de <em>Day trade</em> utilizando SVM (Support Vector Machine Regression).
