@@ -13,7 +13,15 @@
 
 ## Resumo
 
-> Resumo do artigo com as suas palavras (não deve ser copiado total ou parcialmente o resumo do artigo).
+O artigo se refere à construção de um banco de dados referentes aos dados diários de ativos da bolsa de valores do Brasil, a B3 (Brasil, Bolsa, Balcão), do ano 1995 ao ano de 2020.
+
+A motivação da coleta destes dados se dá pelo fato de que, embora existam centenas de datasets com as mais variadas informações sobre o mercado financeiro, até a publicação do artigo, não era conhecida a existencia de datasets públicos e gratuitos de dados pré-processados sobre ativos da bolsa brasileira.
+
+Os dados podem ser encontrados de forma bruta no site da própria B3, em formato TXT. Contudo, isso torna difícil a análise destes, e, portanto, tê-los de maneira mais acessível e com um banco de dados já montado, é um grande avanço.
+
+Desta forma, tal banco de dados pode ser utilizado para as mais variadas aplicações, como, por exemplo, com técnicas de <em>Machine Learning</em>, para prever um possível preço futuro para determinada ação. Ou ainda, executar análises estatísticas que possam dar apoio aos investidores que trabalham com análise técnica, oferecendo suporte para suas operações de <em>Day trade</em> e/ou <em>Swing Trade</em>.
+
+
 
 ## Perguntas de pesquisa/análises
 
